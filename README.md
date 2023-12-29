@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
 🌱 I’m currently learning React Js
- 📫 How to reach me [www.linkedin.com/in/aniket-bhosale-217a7a223](https://www.linkedin.com/in/aniket-kashid/)<br>
+ 📫 How to reach me (https://www.linkedin.com/in/aniket-kashid/)<br>
 
 
 
