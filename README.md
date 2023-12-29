@@ -1,4 +1,3 @@
-/
 
 <!--
 **Aniket7560/Aniket7560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +16,13 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ### Hey there :wave:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bhosale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Kashid)](https://git.io/typing-svg)
 ###### Glad to see you here :heart:
 
 # 💫 About Me:
 👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
 🌱 I’m currently learning React Js
- 📫 How to reach me www.linkedin.com/in/aniket-bhosale-217a7a223<br>
+ 📫 How to reach me [www.linkedin.com/in/aniket-bhosale-217a7a223](https://www.linkedin.com/in/aniket-kashid/)<br>
 
 
 
